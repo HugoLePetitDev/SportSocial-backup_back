@@ -54,7 +54,7 @@ public class SportSocialApplication implements CommandLineRunner{
 	private UserRepository userRepo;
 	@Autowired
 	private AddressRepository addressRepo;
-	@Autowired
+	@Autowired 
 	private ImageRepository imageRepo;
 	@Autowired
 	private SportRepository sportRepo;
